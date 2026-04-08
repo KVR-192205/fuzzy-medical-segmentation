@@ -71,4 +71,7 @@ This project uses **Fuzzy C-Means clustering** to:
 3. Run:
 
 ```matlab
+
+## Author
+Vinay reddy kundavaram
 xray_image
